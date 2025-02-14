@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://bauplanlabs.com">
-    <img src="https://public.assets.bauplanlabs.com/logo/bauplan-icon-color.png" height="96">
-    <h1 align="center">bauplan</h1>
-  </a>
-</p>
-
-**Bauplan provides Serverless functions + data branches directly over S3.**
+**[Bauplan](https://www.bauplanlabs.com) provides Serverless functions + data branches directly over S3.**
 
 Build AI and data applications that are portable, versioned, and reproducible with zero infrastructure management.  
 
