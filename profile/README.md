@@ -1,9 +1,16 @@
-# Bauplan Labs
+<p align="center">
+  <a href="https://bauplanlabs.com">
+    <img src="https://public.assets.bauplanlabs.com/logo/bauplan-icon-color.png" height="96">
+    <h1 align="center">bauplan</h1>
+  </a>
+</p>
 
-Home of [Bauplan](https://www.bauplanlabs.com/).
+**Bauplan provides Serverless functions + data branches directly over S3.**
 
-Quick Links:
+Build AI and data applications that are portable, versioned, and reproducible with zero infrastructure management.  
 
-* [our website](https://www.bauplanlabs.com/);
-* [our docs](https://docs.bauplanlabs.com/en/latest/);
-* [our blog](https://www.bauplanlabs.com/blog).
+**Quick Links:**
+- 🔨 Build - Create your bauplan sandbox and start building. [Try now](https://www.bauplanlabs.com/#join)
+- 📖 Docs – Learn how bauplan works, from setup to advanced use cases. [Read the Docs](https://docs.bauplanlabs.com/en/latest/)
+- 💡 Examples – Explore real-world use cases and jumpstart your project. [Explore Examples](https://docs.bauplanlabs.com/en/latest/examples/index.html)
+- 🎥 Demo – See Bauplan in action with a quick video walkthrough. [Watch the Demo](https://www.loom.com/share/02e62640d0ec492697066133be2d45ce)
